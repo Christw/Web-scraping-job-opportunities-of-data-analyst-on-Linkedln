@@ -5,7 +5,7 @@ Scrape data analyst job opportunities in some European countries
 A brief overview of the data analyst job market in western Europe
 
 ### Purpose
-I plan to study and work in one of the western European countries, so I am curious how the job market of a data analyst. I also want to store the data sets because I might use them for advanced analysis, such as the most common words, language requirements, and the most important skills.
+I plan to study and work in one of the western European countries, so I am curious how the job market of a data analyst is. I also want to store the data sets because I might use them for advanced analysis, such as the most common words, language requirements, and the most important skills.
 
 ### Data
 LinkedIn job pages
