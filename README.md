@@ -1,14 +1,14 @@
 # Web-scraping-job-opportunities-of-data-analyst-on-Linkedln
 Scrape data analyst job opportunities in some European countries
 
-## Project Summary
-Aggregate the disorganized data efficiently.
+### Project Summary
+A breif overview of data analyst job market in European countries(Portugal, Spain, France, United Kingdom, Germany, Norway, and Netherlands)
 
-## Purpose
-This project is produced because we spent too much time using excel classfying data and we want to be more efficient. Therefore, I created this python file to accelerate the process, and people only need less than 5 secs to finish the work.
+### Purpose
+I plan to study and work in Europe but I have not decided where to study. It would be great to gain some information, such as how good the job market is and how many English speaking jobs there are, in advance. Therefore, I can make a sensible decisions to determine where I should study and take advantage of the market.
 
-## Data
-Existing Report (ad placement, sales, campaign, period, daily traffic, date)
+### Data
+Linkedln job pages
 
-## Result
-People only have to upload the file, change a name of a file, as well as click the button, and they will obtain results in less than 5 secs. Compared to an excel, people can save up more than 10 mins each time they classify it.
+### Result
+In conclusion, United Kingdom, Germany, France, and The Netherlands provide more career opportunties relatively compared to other. Among these ccountries, United Kingdom has the most English speaking roles. However, career is just one of my considerations for postgraduate study. 
